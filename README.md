@@ -32,3 +32,7 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 Run the app
 streamlit run app.py
+##Example tweets
+I'm so happy with this update,everything works perfectly now -positive
+I'm extremely disappoined, this is unacceptable.-negative
+It's good nothing special.- neutral 
